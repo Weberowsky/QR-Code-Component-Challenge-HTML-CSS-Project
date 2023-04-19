@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://weberowsky.github.io/qrcode)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/qr-code-component-challenge-htmlcss-project-URis-SSGBN)
+- Live Site URL: [weberowsky.github.io](https://weberowsky.github.io/QR-Code-Component-Challenge-HTML-CSS-Project/)
 
 ## Built with
 
