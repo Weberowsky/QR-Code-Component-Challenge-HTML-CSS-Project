@@ -18,6 +18,9 @@
 }
 body {
   background-color: var(--lightGray);
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
 }
 #box {
   -webkit-box-shadow: 0px 11px 72px -16px rgba(183, 183, 200, 1);
@@ -27,11 +30,7 @@ body {
   border-radius: 15px;
   height: 500px;
   width: 320px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
+  position: fixed;
 }
 #qrcode {
   position: relative;
@@ -62,6 +61,5 @@ p {
   font-size: 20px;
   color: var(--darkBlue);
   font-family: Outfit;
-  font-size: 20px;
   text-align: center;
 }
