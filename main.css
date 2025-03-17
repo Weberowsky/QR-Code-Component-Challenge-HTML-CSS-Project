@@ -18,9 +18,10 @@
 }
 body {
   background-color: var(--lightGray);
-  min-height: 100vh;
+  height: 100vh;
   display: grid;
   place-items: center;
+  margin:0;
 }
 #box {
   -webkit-box-shadow: 0px 11px 72px -16px rgba(183, 183, 200, 1);
@@ -28,7 +29,7 @@ body {
   box-shadow: 0px 11px 72px -16px rgba(183, 183, 200, 1);
   background: white;
   border-radius: 15px;
-  height: 500px;
+  height: 480px;
   width: 320px;
   position: fixed;
 }
